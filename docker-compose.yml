@@ -1,0 +1,15 @@
+# OPTIONAL - NOT verified (see Dockerfile). Usage: docker compose up --build  ->  http://127.0.0.1:8000
+services:
+  skillradar:
+    build: .
+    ports:
+      - "127.0.0.1:8000:8000"          # published on localhost only
+    env_file:
+      - .env                            # SOFTON_API_KEY stays outside the image
+    environment:
+      # Requests reach the container from the Docker bridge gateway, not loopback.
+      # Adjust to your bridge gateway if needed (docker network inspect bridge).
+      SKILLRADAR_ADMIN_TRUSTED_HOSTS: "172.17.0.1,172.18.0.1"
+    volumes:
+      - ./data:/app/data                # raw files + warehouse stay on the host
+    restart: unless-stopped

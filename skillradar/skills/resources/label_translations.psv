@@ -1,0 +1,553 @@
+# SkillRadar local display translations of ESCO v1.2.0 labels (NOT official ESCO translations).
+# ESCO v1.2.0 publishes no Russian or Azerbaijani labels. These translations were written for this project
+# (AI-assisted, not reviewed by a professional translator) and are shown only as display labels.
+# The original English ESCO label and the ESCO URI are never changed; matching and analytics use URIs only.
+# Format: kind|esco_preferred_label_en|ru|az   (kind = occupation | skill)
+occupation|sales manager|менеджер по продажам|satış meneceri
+occupation|accountant|бухгалтер|mühasib
+occupation|shop assistant|продавец-консультант|satıcı
+occupation|commercial sales representative|торговый представитель|ticarət nümayəndəsi
+occupation|building cleaner|уборщик помещений|bina təmizləyicisi (xadimə)
+occupation|sales assistant|помощник по продажам|satış məsləhətçisi
+occupation|receptionist|администратор на ресепшене|resepşn inzibatçısı
+occupation|architect|архитектор|memar
+occupation|warehouse worker|работник склада|anbar işçisi
+occupation|office manager|офис-менеджер|ofis meneceri
+occupation|graphic designer|графический дизайнер|qrafik dizayner
+occupation|cashier|кассир|kassir
+occupation|call centre agent|оператор колл-центра|çağrı mərkəzi operatoru
+occupation|barista|бариста|barista
+occupation|waiter/waitress|официант/официантка|ofisiant
+occupation|project manager|менеджер проектов|layihə meneceri
+occupation|lawyer|юрист|hüquqşünas
+occupation|chef|шеф-повар|aşpaz-şef
+occupation|merchandiser|мерчендайзер|merçendayzer
+occupation|housekeeping supervisor|супервайзер хозяйственной службы|təsərrüfat xidməti nəzarətçisi
+occupation|human resources manager|менеджер по персоналу|insan resursları meneceri
+occupation|software developer|разработчик программного обеспечения|proqram təminatı tərtibatçısı
+occupation|cook|повар|aşpaz
+occupation|design engineer|инженер-конструктор|layihələndirmə mühəndisi
+occupation|optician|оптик|optik
+occupation|secretary|секретарь|katib
+occupation|purchaser|специалист по закупкам|satınalma mütəxəssisi
+occupation|restaurant manager|менеджер ресторана|restoran meneceri
+occupation|optometrist|оптометрист|optometrist
+occupation|casino pit boss|пит-босс казино|kazino pit-bossu
+occupation|product manager|продакт-менеджер|məhsul meneceri
+occupation|engineering assistant|помощник инженера|mühəndis köməkçisi
+occupation|ICT project manager|ИТ-менеджер проектов|İT layihə meneceri
+occupation|electrical engineer|инженер-электрик|elektrik mühəndisi
+occupation|pharmacist|фармацевт|əczaçı
+occupation|financial controller|финансовый контролёр|maliyyə nəzarətçisi
+occupation|electrician|электрик|elektrik
+occupation|security guard|охранник|mühafizəçi
+occupation|corporate lawyer|корпоративный юрист|korporativ hüquqşünas
+occupation|security manager|менеджер по безопасности|təhlükəsizlik meneceri
+occupation|data analyst|аналитик данных|məlumat analitiki
+occupation|accounting analyst|аналитик по бухгалтерскому учёту|mühasibat analitiki
+occupation|computer science lecturer|преподаватель информатики (вуз)|informatika müəllimi (ali məktəb)
+occupation|accounting assistant|помощник бухгалтера|mühasib köməkçisi
+occupation|customer contact centre information clerk|специалист контакт-центра|əlaqə mərkəzi mütəxəssisi
+occupation|head pastry chef|шеф-кондитер|baş qənnadı aşpazı
+occupation|corporate risk manager|риск-менеджер компании|korporativ risk meneceri
+occupation|talent acquisition manager|менеджер по подбору персонала|istedadların cəlbi meneceri
+occupation|host/hostess|хостес|xostes
+occupation|shop manager|управляющий магазином|mağaza müdiri
+occupation|ICT system administrator|системный администратор|sistem inzibatçısı
+occupation|upholsterer|обивщик мебели|döşəməçi
+occupation|real estate agent|агент по недвижимости|daşınmaz əmlak agenti
+occupation|financial analyst|финансовый аналитик|maliyyə analitiki
+occupation|database administrator|администратор баз данных|verilənlər bazası inzibatçısı
+occupation|contract engineer|инженер по контрактам|müqavilələr üzrə mühəndis
+occupation|logistics and distribution manager|менеджер по логистике и дистрибуции|logistika və paylanma meneceri
+occupation|aircraft maintenance engineer|инженер по техобслуживанию воздушных судов|təyyarə texniki xidmət mühəndisi
+occupation|ethical hacker|этичный хакер (пентестер)|etik haker (pentester)
+occupation|marketing manager|менеджер по маркетингу|marketinq meneceri
+occupation|business analyst|бизнес-аналитик|biznes analitik
+occupation|secondary school teacher|учитель средней школы|orta məktəb müəllimi
+occupation|automation engineering technician|техник по автоматизации|avtomatlaşdırma texniki
+occupation|scientific laboratory technician|лаборант|laborant
+occupation|strategic planning manager|менеджер по стратегическому планированию|strateji planlaşdırma meneceri
+occupation|advertising manager|менеджер по рекламе|reklam meneceri
+occupation|marketing assistant|помощник по маркетингу|marketinq köməkçisi
+occupation|marketing consultant|маркетолог-консультант|marketinq məsləhətçisi
+occupation|laundry ironer|гладильщик (прачечная)|camaşırxana ütüləyicisi
+occupation|purchasing manager|менеджер по закупкам|satınalma meneceri
+occupation|bartender|бармен|barmen
+occupation|data engineer|инженер данных|məlumat mühəndisi
+occupation|event manager|менеджер мероприятий|tədbirlər meneceri
+occupation|translator|переводчик|tərcüməçi
+occupation|animal artificial insemination technician|техник по искусственному осеменению животных|heyvanların süni mayalanması texniki
+occupation|customer service representative|специалист по обслуживанию клиентов|müştəri xidmətləri nümayəndəsi
+occupation|university teaching assistant|ассистент преподавателя вуза|universitet müəllim assistenti
+occupation|car and van delivery driver|водитель-экспедитор|sürücü-ekspeditor
+occupation|administrative assistant|административный ассистент|inzibati assistent
+occupation|head chef|шеф-повар (руководитель кухни)|baş aşpaz
+skill|assume responsibility|ответственность|məsuliyyətlilik
+skill|English|английский язык|ingilis dili
+skill|Azerbaijani|азербайджанский язык|Azərbaycan dili
+skill|sales activities|продажи|satış fəaliyyəti
+skill|work in teams|работа в команде|komandada işləmək
+skill|Russian|русский язык|rus dili
+skill|use microsoft office|работа в Microsoft Office|Microsoft Office ilə işləmək
+skill|use spreadsheets software|работа с электронными таблицами (Excel)|elektron cədvəllərlə işləmək (Excel)
+skill|communication|коммуникация|ünsiyyət
+skill|work independently|самостоятельная работа|müstəqil işləmək
+skill|customer service|обслуживание клиентов|müştəri xidməti
+skill|think analytically|аналитическое мышление|analitik düşünmək
+skill|recruit employees|подбор персонала|işçi seçimi
+skill|accounting|бухгалтерский учёт|mühasibat uçotu
+skill|marketing principles|основы маркетинга|marketinqin əsasları
+skill|negotiate with stakeholders|переговоры с заинтересованными сторонами|maraqlı tərəflərlə danışıqlar
+skill|SQL|SQL|SQL
+skill|logistics|логистика|logistika
+skill|use CAD software|работа в САПР (CAD)|CAD proqramları ilə işləmək
+skill|have computer literacy|компьютерная грамотность|kompüter savadı
+skill|use presentation software|работа с презентациями (PowerPoint)|təqdimat proqramları ilə işləmək (PowerPoint)
+skill|customer relationship management|управление отношениями с клиентами (CRM)|müştəri münasibətlərinin idarə edilməsi (CRM)
+skill|data protection|защита данных|məlumatların qorunması
+skill|drive vehicles|вождение автомобиля|nəqliyyat vasitəsi idarə etmək
+skill|human resource management|управление персоналом|insan resurslarının idarə edilməsi
+skill|health and safety regulations|нормы охраны труда|əməyin mühafizəsi qaydaları
+skill|perform cleaning duties|выполнение уборки|təmizlik işlərini yerinə yetirmək
+skill|social media management|ведение социальных сетей (SMM)|sosial media idarəetməsi (SMM)
+skill|DevOps|DevOps|DevOps
+skill|PostgreSQL|PostgreSQL|PostgreSQL
+skill|Turkish|турецкий язык|türk dili
+skill|statistics|статистика|statistika
+skill|compile airport certification manuals|составление сертификационных руководств аэропорта|hava limanı sertifikatlaşdırma təlimatlarının tərtibi
+skill|economics|экономика|iqtisadiyyat
+skill|project management|управление проектами|layihələrin idarə edilməsi
+skill|SAP R3|SAP R/3|SAP R/3
+skill|financial statements|финансовая отчётность|maliyyə hesabatları
+skill|computer science|информатика|kompüter elmləri
+skill|database|базы данных|verilənlər bazası
+skill|JavaScript|JavaScript|JavaScript
+skill|root cause analysis|анализ первопричин|kök səbəb təhlili
+skill|MySQL|MySQL|MySQL
+skill|TypeScript|TypeScript|TypeScript
+skill|digital marketing techniques|методы цифрового маркетинга|rəqəmsal marketinq üsulları
+skill|risk management|управление рисками|risklərin idarə edilməsi
+skill|assess students|оценка учащихся|şagirdlərin qiymətləndirilməsi
+skill|use word processing software|работа в текстовых редакторах (Word)|mətn redaktorları ilə işləmək (Word)
+skill|cope with stress|стрессоустойчивость|streslə mübarizə
+skill|graphic design|графический дизайн|qrafik dizayn
+skill|Adobe Photoshop|Adobe Photoshop|Adobe Photoshop
+skill|data engineering|инженерия данных|məlumat mühəndisliyi
+skill|data extraction, transformation and loading tools|инструменты ETL|ETL alətləri
+skill|good laboratory practice|надлежащая лабораторная практика (GLP)|yaxşı laboratoriya təcrübəsi (GLP)
+skill|liaise with colleagues|взаимодействие с коллегами|həmkarlarla əlaqə
+skill|manage closed-circuit television system|управление системой видеонаблюдения|videomüşahidə sisteminin idarə edilməsi
+skill|office software|офисные программы|ofis proqramları
+skill|operate welding equipment|работа со сварочным оборудованием|qaynaq avadanlığı ilə işləmək
+skill|show entrepreneurial spirit|предпринимательский подход|sahibkarlıq ruhu
+skill|create prototype of user experience solutions|прототипирование UX-решений|UX həllərinin prototipləşdirilməsi
+skill|data analytics|аналитика данных|məlumat analitikası
+skill|international financial reporting standards|МСФО|BMHS (Beynəlxalq Maliyyə Hesabatı Standartları)
+skill|manage time|управление временем|vaxtın idarə edilməsi
+skill|property management software|программы управления недвижимостью|daşınmaz əmlak idarəetmə proqramları
+skill|public relations|связи с общественностью (PR)|ictimaiyyətlə əlaqələr (PR)
+skill|CSS|CSS|CSS
+skill|PHP|PHP|PHP
+skill|business processes|бизнес-процессы|biznes prosesləri
+skill|computer technology|компьютерные технологии|kompüter texnologiyaları
+skill|data warehouse|хранилище данных|məlumat anbarı
+skill|mathematics|математика|riyaziyyat
+skill|quality standards|стандарты качества|keyfiyyət standartları
+skill|tax legislation|налоговое законодательство|vergi qanunvericiliyi
+skill|Adobe Illustrator|Adobe Illustrator|Adobe Illustrator
+skill|cyber security|кибербезопасность|kibertəhlükəsizlik
+skill|domain name service|служба доменных имён (DNS)|domen adları xidməti (DNS)
+skill|ethics|этика|etika
+skill|implement ICT recovery system|внедрение системы аварийного восстановления ИТ|İT bərpa sisteminin tətbiqi
+skill|quantity surveying|сметное дело|smeta işi
+skill|R|R (язык программирования)|R (proqramlaşdırma dili)
+skill|distributed directory information services|службы каталогов (LDAP, AD)|kataloq xidmətləri (LDAP, AD)
+skill|financial analysis|финансовый анализ|maliyyə təhlili
+skill|insurance law|страховое право|sığorta hüququ
+skill|management department processes|процессы управленческого отдела|idarəetmə şöbəsinin prosesləri
+skill|software interaction design|проектирование взаимодействия ПО|proqram təminatının qarşılıqlı əlaqə dizaynı
+skill|team building|командообразование|komanda quruculuğu
+skill|think innovatively|инновационное мышление|innovativ düşünmək
+skill|C#|C#|C#
+skill|German|немецкий язык|alman dili
+skill|NoSQL|NoSQL|NoSQL
+skill|algorithms|алгоритмы|alqoritmlər
+skill|application process|процесс подачи заявок|müraciət prosesi
+skill|apply change management|управление изменениями|dəyişikliklərin idarə edilməsi
+skill|build trust|построение доверия|etimad qurmaq
+skill|building information modelling|информационное моделирование зданий (BIM)|binaların informasiya modelləşdirilməsi (BIM)
+skill|cloud technologies|облачные технологии|bulud texnologiyaları
+skill|design package|пакет проектной документации|layihə sənədləri paketi
+skill|document management|управление документами|sənədlərin idarə edilməsi
+skill|financial engineering|финансовая инженерия|maliyyə mühəndisliyi
+skill|lead a team|руководство командой|komandaya rəhbərlik
+skill|logic|логика|məntiq
+skill|market research|маркетинговые исследования|bazar araşdırması
+skill|operating systems|операционные системы|əməliyyat sistemləri
+skill|product comprehension|знание продукта|məhsul biliyi
+skill|sales argumentation|аргументация в продажах|satışda arqumentasiya
+skill|troubleshoot|устранение неполадок|nasazlıqların aradan qaldırılması
+skill|Cisco|Cisco|Cisco
+skill|SQL Server|SQL Server|SQL Server
+skill|building codes|строительные нормы|tikinti normaları
+skill|business analysis|бизнес-анализ|biznes təhlili
+skill|business knowledge|знание бизнеса|biznes bilikləri
+skill|company policies|политики компании|şirkət siyasətləri
+skill|conflict management|управление конфликтами|münaqişələrin idarə edilməsi
+skill|cost management|управление затратами|xərclərin idarə edilməsi
+skill|design principles|принципы дизайна|dizayn prinsipləri
+skill|e-learning|электронное обучение|elektron təhsil
+skill|environmental management standards|стандарты экологического менеджмента|ekoloji idarəetmə standartları
+skill|first aid|первая помощь|ilk tibbi yardım
+skill|geographic information systems|геоинформационные системы (ГИС)|coğrafi informasiya sistemləri (CİS)
+skill|knowledge base|база знаний|bilik bazası
+skill|labour legislation|трудовое законодательство|əmək qanunvericiliyi
+skill|moderate a discussion|модерация дискуссии|müzakirənin moderasiyası
+skill|office administration|офисное администрирование|ofis inzibatçılığı
+skill|operations management|операционный менеджмент|əməliyyatların idarə edilməsi
+skill|program management|управление программами|proqramların idarə edilməsi
+skill|provide information|предоставление информации|məlumat vermək
+skill|sales department processes|процессы отдела продаж|satış şöbəsinin prosesləri
+skill|supply chain management|управление цепочками поставок|təchizat zəncirinin idarə edilməsi
+skill|work in shifts|работа посменно|növbəli işləmək
+skill|Agile development|гибкая разработка (Agile)|çevik inkişaf (Agile)
+skill|Ansible|Ansible|Ansible
+skill|Berber|берберский язык|bərbər dili
+skill|C++|C++|C++
+skill|GDPR|GDPR (регламент ЕС о защите данных)|GDPR (Aİ məlumatların qorunması reqlamenti)
+skill|ICT encryption|шифрование в ИТ|İT-də şifrələmə
+skill|ICT system integration|системная интеграция ИТ|İT sistemlərinin inteqrasiyası
+skill|SPARK|SPARK|SPARK
+skill|achieve sales targets|выполнение плана продаж|satış hədəflərinə nail olmaq
+skill|assist customers|помощь покупателям|müştərilərə kömək
+skill|building automation|автоматизация зданий|binaların avtomatlaşdırılması
+skill|business process modelling|моделирование бизнес-процессов|biznes proseslərinin modelləşdirilməsi
+skill|collaborate with engineers|сотрудничество с инженерами|mühəndislərlə əməkdaşlıq
+skill|commercial law|коммерческое право|kommersiya hüququ
+skill|computer engineering|компьютерная инженерия|kompüter mühəndisliyi
+skill|construction industry|строительная отрасль|tikinti sənayesi
+skill|consultation|консультирование|məsləhətləşmə
+skill|contact customers|связь с клиентами|müştərilərlə əlaqə saxlamaq
+skill|control systems|системы управления|idarəetmə sistemləri
+skill|corporate law|корпоративное право|korporativ hüquq
+skill|data science|наука о данных|məlumat elmi
+skill|define technical requirements|определение технических требований|texniki tələblərin müəyyən edilməsi
+skill|design process|процесс проектирования|dizayn prosesi
+skill|digital identity management|управление цифровой идентичностью (IAM)|rəqəmsal identifikasiyanın idarə edilməsi (IAM)
+skill|electrical engineering|электротехника|elektrotexnika
+skill|energy efficiency|энергоэффективность|enerji səmərəliliyi
+skill|ensure compliance with construction project deadline|соблюдение сроков строительного проекта|tikinti layihəsinin müddətlərinə əməl edilməsi
+skill|enterprise risk management|управление рисками предприятия|müəssisə risklərinin idarə edilməsi
+skill|financial management|финансовый менеджмент|maliyyə menecmenti
+skill|foreign affairs|международные отношения|xarici əlaqələr
+skill|formulate findings|формулирование выводов|nəticələrin formalaşdırılması
+skill|health and safety in the workplace|охрана труда на рабочем месте|iş yerində əməyin mühafizəsi
+skill|hotel operations|гостиничные операции|otel əməliyyatları
+skill|inspect data|проверка данных|məlumatların yoxlanılması
+skill|international business|международный бизнес|beynəlxalq biznes
+skill|legal research|юридическое исследование|hüquqi araşdırma
+skill|legal terminology|юридическая терминология|hüquqi terminologiya
+skill|machine learning|машинное обучение|maşın öyrənməsi
+skill|maintain updated professional knowledge|поддержание актуальных профессиональных знаний|peşə biliklərinin aktual saxlanılması
+skill|manage accounts|ведение счетов|hesabların idarə edilməsi
+skill|manage contracts|управление договорами|müqavilələrin idarə edilməsi
+skill|manage tests|управление тестированием|testlərin idarə edilməsi
+skill|management consulting|управленческий консалтинг|idarəetmə məsləhətçiliyi
+skill|monitor swimming-pool infrastructure|контроль инфраструктуры бассейна|hovuz infrastrukturuna nəzarət
+skill|online analytical processing|оперативная аналитическая обработка (OLAP)|onlayn analitik emal (OLAP)
+skill|process payments|обработка платежей|ödənişlərin emalı
+skill|process qualitative information|обработка качественной информации|keyfiyyət məlumatlarının emalı
+skill|provide high quality customer service|высококачественное обслуживание клиентов|yüksək keyfiyyətli müştəri xidməti
+skill|provide technical documentation|подготовка технической документации|texniki sənədlərin hazırlanması
+skill|provide technical expertise|техническая экспертиза|texniki ekspertiza
+skill|quantitative analysis|количественный анализ|kəmiyyət təhlili
+skill|represent the company|представление компании|şirkəti təmsil etmək
+skill|risk identification|выявление рисков|risklərin müəyyən edilməsi
+skill|safety engineering|техника безопасности|təhlükəsizlik mühəndisliyi
+skill|sales strategies|стратегии продаж|satış strategiyaları
+skill|social security law|право социального обеспечения|sosial təminat hüququ
+skill|system design|проектирование систем|sistem dizaynı
+skill|ATM systems|системы банкоматов|bankomat sistemləri
+skill|Chinese|китайский язык|çin dili
+skill|ICT project management methodologies|методологии управления ИТ-проектами|İT layihələrinin idarəetmə metodologiyaları
+skill|Japanese|японский язык|yapon dili
+skill|LDAP|LDAP|LDAP
+skill|MATLAB|MATLAB|MATLAB
+skill|Microsoft Access|Microsoft Access|Microsoft Access
+skill|Portuguese|португальский язык|portuqal dili
+skill|Unreal Engine|Unreal Engine|Unreal Engine
+skill|actuarial science|актуарная наука|aktuar elmi
+skill|adobe creative suite|Adobe Creative Suite|Adobe Creative Suite
+skill|adopt ways to reduce pollution|меры по снижению загрязнения|çirklənmənin azaldılması tədbirləri
+skill|apply information security policies|применение политик информационной безопасности|informasiya təhlükəsizliyi siyasətlərinin tətbiqi
+skill|apply social media marketing|маркетинг в социальных сетях|sosial media marketinqi
+skill|architectural design|архитектурное проектирование|memarlıq layihələndirməsi
+skill|artificial neural networks|искусственные нейронные сети|süni neyron şəbəkələri
+skill|assess customers|оценка клиентов|müştərilərin qiymətləndirilməsi
+skill|asset management|управление активами|aktivlərin idarə edilməsi
+skill|attack vectors|векторы атак|hücum vektorları
+skill|attend meetings|участие в совещаниях|iclaslarda iştirak
+skill|attend to detail|внимание к деталям|detallara diqqət
+skill|aviation English|авиационный английский|aviasiya ingilis dili
+skill|blueprints|чертежи|çertyojlar
+skill|building systems monitoring technology|системы мониторинга инженерных систем здания|bina sistemlərinin monitorinqi texnologiyası
+skill|cable-propelled transit|канатный транспорт|kanat nəqliyyatı
+skill|check accounting records|проверка бухгалтерских записей|mühasibat qeydlərinin yoxlanılması
+skill|check subjects|проверка субъектов|subyektlərin yoxlanılması
+skill|chemistry|химия|kimya
+skill|childbirth|роды|doğuş
+skill|coach clients|коучинг клиентов|müştərilərə kouçinq
+skill|colour grading|цветокоррекция|rəng korreksiyası
+skill|communicable diseases|инфекционные заболевания|yoluxucu xəstəliklər
+skill|communicate with customers|общение с клиентами|müştərilərlə ünsiyyət
+skill|computer equipment|компьютерное оборудование|kompüter avadanlığı
+skill|computer programming|программирование|proqramlaşdırma
+skill|consumer electronics|бытовая электроника|məişət elektronikası
+skill|contract law|договорное право|müqavilə hüququ
+skill|cooperate with colleagues|сотрудничество с коллегами|həmkarlarla əməkdaşlıq
+skill|cosmetics|косметика|kosmetika
+skill|customer insight|понимание клиента|müştəri anlayışı
+skill|customer segmentation|сегментация клиентов|müştəri seqmentasiyası
+skill|data models|модели данных|məlumat modelləri
+skill|data storage|хранение данных|məlumatların saxlanması
+skill|depreciation|амортизация|amortizasiya
+skill|detect bottlenecks|выявление узких мест|darboğazların aşkarlanması
+skill|develop strategy to solve problems|разработка стратегии решения проблем|problemlərin həlli strategiyasının hazırlanması
+skill|developmental psychology|психология развития|inkişaf psixologiyası
+skill|edge banding|кромкооблицовка|kənar örtüklənməsi
+skill|editorial standards|редакционные стандарты|redaksiya standartları
+skill|electrical wiring diagrams|электрические схемы|elektrik sxemləri
+skill|electronics|электроника|elektronika
+skill|exert expenditure control|контроль расходов|xərclərə nəzarət
+skill|financial capability|финансовая грамотность|maliyyə savadlılığı
+skill|financial forecasting|финансовое прогнозирование|maliyyə proqnozlaşdırılması
+skill|financial markets|финансовые рынки|maliyyə bazarları
+skill|fix meetings|организация встреч|görüşlərin təşkili
+skill|football|футбол|futbol
+skill|geography|география|coğrafiya
+skill|good manufacturing practices|надлежащая производственная практика (GMP)|yaxşı istehsal təcrübəsi (GMP)
+skill|greet guests|встреча гостей|qonaqların qarşılanması
+skill|handle customer complaints|работа с жалобами клиентов|müştəri şikayətlərinə baxılması
+skill|identify new business opportunities|поиск новых бизнес-возможностей|yeni biznes imkanlarının müəyyən edilməsi
+skill|improve business processes|улучшение бизнес-процессов|biznes proseslərinin təkmilləşdirilməsi
+skill|industrial research and development|промышленные исследования и разработки|sənaye tədqiqat və işləmələri
+skill|industrial software|промышленное ПО|sənaye proqram təminatı
+skill|information architecture|информационная архитектура|informasiya arxitekturası
+skill|information confidentiality|конфиденциальность информации|informasiyanın məxfiliyi
+skill|integrated pest management|комплексная защита от вредителей|zərərvericilərə qarşı kompleks mübarizə
+skill|interact verbally in Azerbaijani|устное общение на азербайджанском|Azərbaycan dilində şifahi ünsiyyət
+skill|internal auditing|внутренний аудит|daxili audit
+skill|international development|международное развитие|beynəlxalq inkişaf
+skill|international trade|международная торговля|beynəlxalq ticarət
+skill|keep up with trends|следить за тенденциями|trendləri izləmək
+skill|laboratory equipment|лабораторное оборудование|laboratoriya avadanlığı
+skill|labour law|трудовое право|əmək hüququ
+skill|law enforcement|правоохранительная деятельность|hüquq-mühafizə fəaliyyəti
+skill|lead others|лидерство|liderlik
+skill|lean manufacturing|бережливое производство|arıq istehsal (lean)
+skill|learning management systems|системы управления обучением (LMS)|təlimin idarəetmə sistemləri (LMS)
+skill|liaise with local authorities|взаимодействие с местными органами власти|yerli hakimiyyət orqanları ilə əlaqə
+skill|listen actively|активное слушание|aktiv dinləmə
+skill|literature|литература|ədəbiyyat
+skill|maintain equipment|обслуживание оборудования|avadanlığa texniki qulluq
+skill|maintenance operations|операции по техобслуживанию|texniki xidmət əməliyyatları
+skill|manage data|управление данными|məlumatların idarə edilməsi
+skill|manage emergency procedures|управление аварийными процедурами|fövqəladə prosedurların idarə edilməsi
+skill|manage hospitality revenue|управление доходами в гостеприимстве|qonaqpərvərlikdə gəlirlərin idarə edilməsi
+skill|manage resources|управление ресурсами|resursların idarə edilməsi
+skill|manage several projects|управление несколькими проектами|bir neçə layihənin idarə edilməsi
+skill|marine engineering|судостроение и морская техника|dəniz mühəndisliyi
+skill|market analysis|анализ рынка|bazar təhlili
+skill|market participants|участники рынка|bazar iştirakçıları
+skill|marketing management|управление маркетингом|marketinqin idarə edilməsi
+skill|meet deadlines|соблюдение сроков|müddətlərə əməl etmək
+skill|monitor artistic activities|контроль творческой деятельности|bədii fəaliyyətə nəzarət
+skill|monitor customer service|контроль качества обслуживания|müştəri xidmətinə nəzarət
+skill|network standards|сетевые стандарты|şəbəkə standartları
+skill|normalise data|нормализация данных|məlumatların normallaşdırılması
+skill|occupational health|гигиена труда|əmək gigiyenası
+skill|office equipment|офисная техника|ofis avadanlığı
+skill|operate cash register|работа с кассовым аппаратом|kassa aparatı ilə işləmək
+skill|operate private branch exchange|работа с офисной АТС|ofis ATS ilə işləmək
+skill|organise information|организация информации|məlumatların təşkili
+skill|perform aircraft maintenance|техобслуживание воздушных судов|təyyarələrə texniki xidmət
+skill|personal development|личностное развитие|şəxsi inkişaf
+skill|personnel management|кадровый менеджмент|kadrların idarə edilməsi
+skill|pharmacology|фармакология|farmakologiya
+skill|photography|фотография|fotoqrafiya
+skill|physical medicine|физическая медицина|fiziki tibb
+skill|physics|физика|fizika
+skill|plan resource allocation|планирование распределения ресурсов|resursların bölüşdürülməsinin planlaşdırılması
+skill|plan schedule|планирование графика|cədvəlin planlaşdırılması
+skill|precious metals|драгоценные металлы|qiymətli metallar
+skill|pregnancy|беременность|hamiləlik
+skill|present reports|представление отчётов|hesabatların təqdim edilməsi
+skill|printing materials|полиграфические материалы|çap materialları
+skill|process applications|обработка заявок|müraciətlərin emalı
+skill|programmable logic controller|программируемый логический контроллер (ПЛК)|proqramlaşdırılan məntiqi kontroller (PLC)
+skill|project commissioning|ввод проекта в эксплуатацию|layihənin istismara verilməsi
+skill|project management principles|принципы управления проектами|layihə idarəetməsinin prinsipləri
+skill|provide legal advice|юридические консультации|hüquqi məsləhət
+skill|public health|общественное здравоохранение|ictimai səhiyyə
+skill|quran|Коран|Quran
+skill|reinsurance|перестрахование|təkrarsığorta
+skill|repair pipelines|ремонт трубопроводов|boru kəmərlərinin təmiri
+skill|rural development strategies|стратегии развития сельских территорий|kənd inkişafı strategiyaları
+skill|search engine optimisation|поисковая оптимизация (SEO)|axtarış sistemi optimallaşdırması (SEO)
+skill|search engines|поисковые системы|axtarış sistemləri
+skill|securities|ценные бумаги|qiymətli kağızlar
+skill|security engineering|инженерия безопасности|təhlükəsizlik mühəndisliyi
+skill|security regulations|нормы безопасности|təhlükəsizlik qaydaları
+skill|security threats|угрозы безопасности|təhlükəsizlik təhdidləri
+skill|semantics|семантика|semantika
+skill|smart grids systems|умные энергосети|ağıllı enerji şəbəkələri
+skill|social development|социальное развитие|sosial inkişaf
+skill|solve problems|решение проблем|problemlərin həlli
+skill|spelling|орфография|orfoqrafiya
+skill|strategic planning|стратегическое планирование|strateji planlaşdırma
+skill|structure information|структурирование информации|məlumatların strukturlaşdırılması
+skill|surface-mount technology|технология поверхностного монтажа|səth montajı texnologiyası
+skill|surgery|хирургия|cərrahiyyə
+skill|systems thinking|системное мышление|sistemli düşüncə
+skill|talent management strategies|стратегии управления талантами|istedadların idarə edilməsi strategiyaları
+skill|teach computer science|преподавание информатики|informatika tədrisi
+skill|teach geography|преподавание географии|coğrafiya tədrisi
+skill|teach philosophy|преподавание философии|fəlsəfə tədrisi
+skill|telemarketing|телемаркетинг|telemarketinq
+skill|terminology|терминология|terminologiya
+skill|track shipments|отслеживание грузов|yüklərin izlənməsi
+skill|train employees|обучение сотрудников|işçilərin təlimi
+skill|types of aircraft|типы воздушных судов|təyyarə növləri
+skill|unified modelling language|унифицированный язык моделирования (UML)|vahid modelləşdirmə dili (UML)
+skill|unstructured data|неструктурированные данные|strukturlaşdırılmamış məlumatlar
+skill|usability engineering|юзабилити-инжиниринг|istifadəçi rahatlığı mühəndisliyi
+skill|web services|веб-сервисы|veb xidmətlər
+skill|apply company policies|соблюдение политик компании|şirkət siyasətlərinin tətbiqi
+skill|maintain relationship with customers|поддержание отношений с клиентами|müştərilərlə münasibətlərin saxlanılması
+skill|examine merchandise|проверка товара|malın yoxlanılması
+skill|provide customer guidance on product selection|помощь клиентам в выборе товара|müştərilərə məhsul seçimində kömək
+skill|maintain relationship with suppliers|поддержание отношений с поставщиками|təchizatçılarla münasibətlərin saxlanılması
+skill|maintain store cleanliness|поддержание чистоты в магазине|mağazada təmizliyin saxlanılması
+skill|put up price tags|размещение ценников|qiymət etiketlərinin yerləşdirilməsi
+skill|organise product display|выкладка товара|məhsulların vitrinə düzülməsi
+skill|stock shelves|пополнение полок|rəflərin doldurulması
+skill|pack merchandise for gifts|подарочная упаковка товара|malların hədiyyə qablaşdırılması
+skill|process refunds|оформление возвратов|geri qaytarmaların rəsmiləşdirilməsi
+skill|carry out order intake|приём заказов|sifarişlərin qəbulu
+skill|package purchases in bags|упаковка покупок|alış-verişin qablaşdırılması
+skill|Order products|заказ товаров|məhsulların sifarişi
+skill|provide customer follow-up services|послепродажное сопровождение клиентов|müştərilərə satış sonrası xidmət
+skill|execute working instructions|выполнение рабочих инструкций|iş təlimatlarının icrası
+skill|notify customers on special offers|информирование клиентов о спецпредложениях|müştərilərin xüsusi təkliflər barədə məlumatlandırılması
+skill|supervise merchandise displays|контроль выкладки товара|mal vitrinlərinə nəzarət
+skill|direct customers to merchandise|помощь клиентам в поиске товара|müştərilərin mala yönləndirilməsi
+skill|consumer goods industry|отрасль потребительских товаров|istehlak malları sənayesi
+skill|pricing strategies|стратегии ценообразования|qiymətqoyma strategiyaları
+skill|corporate social responsibility|корпоративная социальная ответственность|korporativ sosial məsuliyyət
+skill|brand marketing techniques|методы бренд-маркетинга|brend marketinqi üsulları
+skill|content marketing strategy|стратегия контент-маркетинга|kontent marketinqi strategiyası
+skill|marketing mix|комплекс маркетинга (4P)|marketinq kompleksi (4P)
+skill|market pricing|рыночное ценообразование|bazar qiymətqoyması
+skill|integrate strategic foundation in daily performance|применение стратегии в ежедневной работе|strategiyanın gündəlik işə inteqrasiyası
+skill|plan marketing strategy|планирование маркетинговой стратегии|marketinq strategiyasının planlaşdırılması
+skill|study sales levels of products|анализ уровня продаж товаров|məhsul satış səviyyəsinin öyrənilməsi
+skill|motivate employees|мотивация сотрудников|işçilərin motivasiyası
+skill|carry out sales analysis|анализ продаж|satış təhlili
+skill|manage staff|управление персоналом (руководство)|heyətin idarə edilməsi
+skill|evaluate marketing content|оценка маркетингового контента|marketinq kontentinin qiymətləndirilməsi
+skill|manage profitability|управление рентабельностью|gəlirliliyin idarə edilməsi
+skill|analyse business plans|анализ бизнес-планов|biznes planların təhlili
+skill|create annual marketing budget|составление годового маркетингового бюджета|illik marketinq büdcəsinin tərtibi
+skill|analyse consumer buying trends|анализ покупательских тенденций|istehlakçı alış meyllərinin təhlili
+skill|define measurable marketing objectives|постановка измеримых маркетинговых целей|ölçülə bilən marketinq məqsədlərinin müəyyən edilməsi
+skill|track key performance indicators|отслеживание KPI|əsas göstəricilərin (KPI) izlənməsi
+skill|coordinate marketing plan actions|координация маркетингового плана|marketinq planı tədbirlərinin koordinasiyası
+skill|analyse internal factors of companies|анализ внутренних факторов компании|şirkətin daxili amillərinin təhlili
+skill|write work-related reports|составление рабочих отчётов|iş hesabatlarının yazılması
+skill|plan marketing campaigns|планирование маркетинговых кампаний|marketinq kampaniyalarının planlaşdırılması
+skill|impart business plans to collaborators|доведение бизнес-планов до сотрудников|biznes planların əməkdaşlara çatdırılması
+skill|integrate marketing strategies with the global strategy|согласование маркетинговой и общей стратегии|marketinq strategiyalarının ümumi strategiya ilə uzlaşdırılması
+skill|produce sales reports|подготовка отчётов о продажах|satış hesabatlarının hazırlanması
+skill|implement sales strategies|реализация стратегий продаж|satış strategiyalarının həyata keçirilməsi
+skill|develop professional network|развитие профессиональных связей|peşəkar əlaqələrin inkişafı
+skill|prepare visual data|подготовка визуализации данных|vizual məlumatların hazırlanması
+skill|analyse customer service surveys|анализ опросов об обслуживании|müştəri xidməti sorğularının təhlili
+skill|set sales goals|постановка целей продаж|satış hədəflərinin müəyyən edilməsi
+skill|analyse external factors of companies|анализ внешних факторов компании|şirkətin xarici amillərinin təhlili
+skill|supervise sales activities|контроль продаж|satış fəaliyyətinə nəzarət
+skill|identify potential markets for companies|поиск потенциальных рынков|potensial bazarların müəyyən edilməsi
+skill|align efforts towards business development|согласование усилий для развития бизнеса|biznesin inkişafı üçün səylərin uzlaşdırılması
+skill|make strategic business decisions|принятие стратегических бизнес-решений|strateji biznes qərarlarının qəbulu
+skill|perform market research|проведение маркетинговых исследований|bazar araşdırmasının aparılması
+skill|analyse work-related written reports|анализ рабочих письменных отчётов|yazılı iş hesabatlarının təhlili
+skill|accounting department processes|процессы бухгалтерии|mühasibatlıq şöbəsinin prosesləri
+skill|bookkeeping regulations|правила ведения бухучёта|mühasibat uçotu qaydaları
+skill|financial department processes|процессы финансового отдела|maliyyə şöbəsinin prosesləri
+skill|fraud detection|выявление мошенничества|fırıldaqçılığın aşkarlanması
+skill|accounting techniques|методы бухгалтерского учёта|mühasibat uçotu üsulları
+skill|accounting entries|бухгалтерские проводки|mühasibat yazılışları
+skill|prepare tax returns forms|подготовка налоговых деклараций|vergi bəyannamələrinin hazırlanması
+skill|calculate tax|расчёт налогов|vergilərin hesablanması
+skill|perform balance sheet operations|операции с балансом|balans əməliyyatları
+skill|interpret financial statements|анализ финансовой отчётности|maliyyə hesabatlarının şərhi
+skill|prepare financial statements|составление финансовой отчётности|maliyyə hesabatlarının hazırlanması
+skill|follow the statutory obligations|соблюдение установленных законом обязанностей|qanuni öhdəliklərə əməl edilməsi
+skill|identify accounting errors|выявление бухгалтерских ошибок|mühasibat səhvlərinin aşkarlanması
+skill|analyse financial performance of a company|анализ финансовых показателей компании|şirkətin maliyyə göstəricilərinin təhlili
+skill|draft accounting procedures|разработка бухгалтерских процедур|mühasibat prosedurlarının hazırlanması
+skill|explain accounting records|пояснение бухгалтерских записей|mühasibat qeydlərinin izahı
+skill|ensure compliance with accounting conventions|соблюдение принципов бухучёта|mühasibat prinsiplərinə əməl edilməsi
+skill|attach accounting certificates to accounting transactions|прикрепление подтверждающих документов к проводкам|mühasibat əməliyyatlarına təsdiqedici sənədlərin əlavə edilməsi
+skill|prepare trial accounting balances|составление оборотно-сальдовой ведомости|sınaq balansının tərtibi
+skill|use different communication channels|использование разных каналов коммуникации|müxtəlif ünsiyyət kanallarından istifadə
+skill|monitor stock level|контроль складских остатков|anbar qalıqlarına nəzarət
+skill|identify customer's needs|выявление потребностей клиента|müştərinin ehtiyaclarının müəyyən edilməsi
+skill|sales promotion techniques|методы стимулирования продаж|satışın təşviqi üsulları
+skill|maintain customer service|поддержание качества обслуживания|müştəri xidmətinin keyfiyyətinin saxlanılması
+skill|teamwork principles|принципы командной работы|komanda işinin prinsipləri
+skill|keep records of merchandise delivery|учёт поставок товара|mal tədarükünün uçotu
+skill|carry out active selling|активные продажи|aktiv satış
+skill|process orders from online shop|обработка заказов интернет-магазина|onlayn mağaza sifarişlərinin emalı
+skill|demonstrate products' features|демонстрация свойств товара|məhsulun xüsusiyyətlərinin nümayişi
+skill|check deliveries on receipt|приёмка поставок|tədarüklərin qəbul zamanı yoxlanılması
+skill|forecast sales over periods of time|прогнозирование продаж|satışların proqnozlaşdırılması
+skill|integrate headquarter's guidelines into local operations|применение указаний головного офиса на месте|baş ofisin göstərişlərinin yerli fəaliyyətə tətbiqi
+skill|manage budgets|управление бюджетами|büdcələrin idarə edilməsi
+skill|present arguments persuasively|убедительная аргументация|arqumentlərin inandırıcı təqdimatı
+skill|estimate profitability|оценка рентабельности|gəlirliliyin qiymətləndirilməsi
+skill|manage distribution channels|управление каналами сбыта|satış kanallarının idarə edilməsi
+skill|recruit personnel|набор персонала|kadrların işə qəbulu
+skill|teach marketing principles|преподавание основ маркетинга|marketinq əsaslarının tədrisi
+skill|analyse supply chain strategies|анализ стратегий цепочки поставок|təchizat zənciri strategiyalarının təhlili
+skill|collaborate in the development of marketing strategies|участие в разработке маркетинговых стратегий|marketinq strategiyalarının hazırlanmasında iştirak
+skill|define geographic sales areas|определение территорий продаж|satış ərazilərinin müəyyən edilməsi
+skill|investigate customer complaints of food products|разбор жалоб клиентов на пищевую продукцию|qida məhsulları üzrə müştəri şikayətlərinin araşdırılması
+skill|liaise with managers|взаимодействие с руководителями|rəhbərlərlə əlaqə
+skill|advise on risk management|консультирование по управлению рисками|risklərin idarə edilməsi üzrə məsləhət
+skill|support development of annual budget|участие в подготовке годового бюджета|illik büdcənin hazırlanmasına dəstək
+skill|check the production schedule|проверка производственного графика|istehsal qrafikinin yoxlanılması
+skill|consult with motion picture producer|консультации с кинопродюсером|kino prodüseri ilə məsləhətləşmə
+skill|perform risk analysis|анализ рисков|risk təhlili
+skill|consult with production director|консультации с режиссёром-постановщиком|quruluşçu rejissorla məsləhətləşmə
+skill|liaise with auditors|взаимодействие с аудиторами|auditorlarla əlaqə
+skill|manage revenue|управление выручкой|gəlirin idarə edilməsi
+skill|prepare financial auditing reports|подготовка аудиторских отчётов|maliyyə audit hesabatlarının hazırlanması
+skill|manage payroll reports|ведение отчётов по заработной плате|əmək haqqı hesabatlarının aparılması
+skill|film production process|процесс кинопроизводства|film istehsalı prosesi
+skill|evaluate budgets|оценка бюджетов|büdcələrin qiymətləndirilməsi
+skill|manage corporate bank accounts|управление корпоративными банковскими счетами|korporativ bank hesablarının idarə edilməsi
+skill|calculate production costs|расчёт себестоимости производства|istehsal xərclərinin hesablanması
+skill|resolve difficult account allocation cases|разрешение сложных случаев отнесения на счета|mürəkkəb hesab bölüşdürmə hallarının həlli
+skill|liquidity management|управление ликвидностью|likvidliyin idarə edilməsi
+skill|advise on financial matters|консультирование по финансовым вопросам|maliyyə məsələləri üzrə məsləhət
+skill|perform dunning activities|работа с дебиторской задолженностью|debitor borclarının tələb edilməsi
+skill|conduct financial audits|проведение финансового аудита|maliyyə auditinin aparılması
+skill|insolvency law|законодательство о банкротстве|müflisləşmə qanunvericiliyi
+skill|manage inventory|управление запасами|ehtiyatların idarə edilməsi
+skill|disseminate information on tax legislation|информирование о налоговом законодательстве|vergi qanunvericiliyi barədə məlumatlandırma
+skill|perform cost accounting activities|управленческий учёт затрат|xərclərin idarəetmə uçotu
+skill|national generally accepted accounting principles|национальные стандарты бухгалтерского учёта|milli mühasibat uçotu standartları
+skill|monitor after sales records|контроль послепродажных записей|satış sonrası qeydlərə nəzarət
+skill|keep track of expenses|учёт расходов|xərclərin uçotu
+skill|handle financial transactions|проведение финансовых операций|maliyyə əməliyyatlarının aparılması

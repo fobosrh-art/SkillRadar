@@ -1,0 +1,90 @@
+alias,lang,esco_preferred_label
+excel,en,use spreadsheets software
+ms office,en,use microsoft office
+microsoft office,en,use microsoft office
+ms ofis,az,use microsoft office
+ofis proqram*,az,use microsoft office
+ms word,en,use word processing software
+powerpoint,en,use presentation software
+photoshop,en,Adobe Photoshop
+illustrator,en,Adobe Illustrator
+autocad,en,use CAD software
+gimp,en,GIMP (graphics editor software)
+mysql,en,MySQL
+postgresql,en,PostgreSQL
+sap,en,SAP R3
+ingilis dil*,az,English
+rus dil*,az,Russian
+azərbaycan dil*,az,Azerbaijani
+türk dil*,az,Turkish
+alman dil*,az,German
+английск*,ru,English
+русск* язык*,ru,Russian
+азербайджанск* язык*,ru,Azerbaijani
+турецк* язык*,ru,Turkish
+mühasibat uçot*,az,accounting
+mühasibatlıq*,az,accounting
+бухгалтерск* учет*,ru,accounting
+vergi qanunvericiliy*,az,tax legislation
+налогов* законодательств*,ru,tax legislation
+maliyyə hesabat*,az,financial statements
+финансов* отчетност*,ru,financial statements
+maliyyə təhlil*,az,financial analysis
+финансов* анализ*,ru,financial analysis
+bmhs,az,International Financial Reporting Standards
+mhbs,az,International Financial Reporting Standards
+ifrs,en,International Financial Reporting Standards
+мсфо,ru,International Financial Reporting Standards
+satış*,az,sales activities
+продаж*,ru,sales activities
+müştəri xidmət*,az,customer service
+müştərilərə xidmət*,az,customer service
+обслуживани* клиент*,ru,customer service
+ünsiyyət bacarıq*,az,communication
+kommunikasiya bacarıq*,az,communication
+kommunikativ*,az,communication
+коммуникабельн*,ru,communication
+komanda işi,az,work in teams
+komandada işlə*,az,work in teams
+komanda ilə işlə*,az,work in teams
+komanda şəraitində işlə*,az,work in teams
+работ* в команде,ru,work in teams
+müstəqil işlə*,az,work independently
+sərbəst işlə*,az,work independently
+самостоятельн*,ru,work independently
+sürücülük vəsiqə*,az,drive vehicles
+водительск* прав*,ru,drive vehicles
+layihə idarə*,az,project management
+управлени* проект*,ru,project management
+marketinq*,az,marketing principles
+маркетинг*,ru,marketing principles
+rəqəmsal marketinq*,az,digital marketing techniques
+smm,en,social media management
+qrafik dizayn*,az,graphic design
+təmizlik*,az,perform cleaning duties
+уборк*,ru,perform cleaning duties
+kassa aparat*,az,operate cash register
+logistika*,az,logistics
+логистик*,ru,logistics
+insan resurs*,az,human resource management
+işə qəbul*,az,recruit employees
+подбор персонал*,ru,recruit employees
+əməyin mühafizə*,az,health and safety regulations
+təhlükəsizlik texnika*,az,health and safety regulations
+hse,en,health and safety regulations
+охран* труд*,ru,health and safety regulations
+ilk tibbi yardım*,az,first aid
+vaxtın idarə*,az,manage time
+zamanın idarə*,az,manage time
+analitik təfəkkür*,az,think analytically
+analitik düşüncə*,az,think analytically
+аналитическ* мышлени*,ru,think analytically
+məsuliyyətli*,az,assume responsibility
+ответственн*,ru,assume responsibility
+danışıqlar apar*,az,negotiate with stakeholders
+qaynaq*,az,operate welding equipment
+сварк*,ru,operate welding equipment
+kompüter bilik*,az,have computer literacy
+kompüter savad*,az,have computer literacy
+komandaya rəhbərlik*,az,lead a team
+statistika*,az,statistics

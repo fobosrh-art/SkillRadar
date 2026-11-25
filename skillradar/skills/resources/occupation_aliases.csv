@@ -1,0 +1,61 @@
+alias,lang,esco_preferred_label
+mühasib,az,accountant
+baş mühasib,az,accountant
+бухгалтер*,ru,accountant
+sürücü-ekspeditor*,az,car and van delivery driver
+sürücü ekspeditor*,az,car and van delivery driver
+taksi sürücü*,az,taxi driver
+xadimə,az,building cleaner
+satış təmsilçi*,az,commercial sales representative
+satış meneceri,az,sales manager
+satış üzrə menecer*,az,sales manager
+менеджер* по продажам,ru,sales manager
+satış məsləhətçi*,az,sales assistant
+satıcı*,az,shop assistant
+продав*,ru,shop assistant
+kassir*,az,cashier
+кассир*,ru,cashier
+ofisiant*,az,waiter/waitress
+официант*,ru,waiter/waitress
+aşpaz*,az,cook
+повар*,ru,cook
+barista,az,barista
+elektrik montyor*,az,electrician
+elektrik usta*,az,electrician
+электрик*,ru,electrician
+qrafik dizayner*,az,graphic designer
+memar*,az,architect
+mağaza müdiri*,az,shop manager
+anbardar*,az,warehouse worker
+кладовщик*,ru,warehouse worker
+mühafizəçi*,az,security guard
+охранник*,ru,security guard
+marketoloq*,az,marketing manager
+proqramçı*,az,software developer
+resepşn*,az,receptionist
+dərzi*,az,tailor
+bərbər*,az,barber
+optik*,az,optician
+layihə meneceri*,az,project manager
+layihə rəhbəri*,az,project manager
+maliyyə analitik*,az,financial analyst
+kassir-operator*,az,bank teller
+çağrı mərkəzi*,az,call centre agent
+call center*,en,call centre agent
+müştəri xidmətləri üzrə mütəxəssis*,az,customer service representative
+bərbər-stilist*,az,hairdresser
+saç ustası*,az,hairdresser
+əczaçı*,az,pharmacist
+farmasevt*,az,pharmacist
+diş texniki*,az,dental technician
+barmen*,az,bartender
+merçendayzer*,az,merchandiser
+satınalma meneceri*,az,purchasing manager
+satınalma üzrə mütəxəssis*,az,purchaser
+hüquqşünas*,az,lawyer
+юрист*,ru,lawyer
+tərcüməçi*,az,translator
+переводчик*,ru,translator
+ofis meneceri*,az,office manager
+katib*,az,secretary
+qablaşdırıcı*,az,hand packer
